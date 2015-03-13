@@ -1,0 +1,1 @@
+A configurable daemon that monitors code repositories (SVN, GIT, CVS, ...) and gives real-time updates to the user and (optionally) generates RSS/Atom and creates Tweeter updates
